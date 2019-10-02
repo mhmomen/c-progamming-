@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570045529 source:e:\vu c\03-10-19\loop-pb-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
