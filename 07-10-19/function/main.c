@@ -7,7 +7,7 @@ void momen(int a, int b)
     else if(b>a)
     printf("the biggest number is %d",b);
   else
-    printf("%d and %d is equal",a,b);
+    printf("%d and %d are equal",a,b);
 }
 
 int main()
