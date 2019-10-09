@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570627689 source:e:\vu c\09-10-19\string counting\main.c
+	<stdio.h>
+	<stdlib.h>
+
