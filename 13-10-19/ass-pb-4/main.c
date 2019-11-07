@@ -7,6 +7,7 @@ int main()
     printf("Enter the days:");
     scanf("%d",&day);
 
+    while(day>0){
     year=day/365;
        printf("years: %d",year);
     day=day%365;
@@ -17,5 +18,6 @@ int main()
         printf("\nweeks:%d",week);
     day=day%7;
         printf("\ndays:%d",day);
+    }
     return 0;
 }
