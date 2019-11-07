@@ -9,9 +9,9 @@ int main()
 
     float num1,num2;
     printf("Enter 1st number : ");
-    scanf("%d",&num1);
+    scanf("%f",&num1);
     printf("Enter 2st number : ");
-    scanf("%d",&num2);
+    scanf("%f",&num2);
 
     switch(ch)
     {
